@@ -1,0 +1,13 @@
+{
+  "id": 89,
+  "user": "samghysels@capgemini.com",
+  "orderDate":null,
+  "items": [
+    {
+      "id": 33,
+      "bookId": 12,
+      "quantity": 1
+    }
+  ],
+  "total": 29.42
+}
